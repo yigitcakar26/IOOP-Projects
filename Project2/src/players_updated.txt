@@ -1,0 +1,7 @@
+Edin,Dzeko,17/3/1986,Manchester City,Roma,Inter,Fenerbahce
+Fernando,Muslera,16/6/1986,Wanderers,Lazio,Galatasaray
+Rafa,Silva,17/5/1993,Braga,Benfica,Besiktas
+Ricardo,Quaresma,26/9/1983,Sporting Lizbon,Inter,FC Porto,Besiktas
+Serdar,Aziz,23/10/1990,Bursaspor,Galatasaray,Fenerbahce
+Serdar,Gurler,14/9/1991,Trabzonspor,Genclerbirligi,Goztepe,Antalyaspor,Basaksehir FK
+Victor,Osimhen,29/12/1998,Wolfsburg,Lille,Napoli,Galatasaray
